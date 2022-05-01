@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamSiddharthChoudhary
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m learning things which I am interested in.
 - 📫 You can reach me on it_is_siddharth (Instagram) and via gmail at csiddharth380@gmail.com.
 
 <!---
