@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth Choudhary
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning blockchain development.
+- 🌱 I’m currently into blockchain development.
 - 📫 You can reach me on it_is_siddharth (Instagram) and via gmail at csiddharth380@gmail.com.
 
 <!---
